@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [<a href="https://projectcocoon.org/" target="_blank">Project Cocoon</a>](https://projectcocoon.org/) in my free time.
 - 📝 I regularly write articles on <a href="https://tedvu.com" target="_blank">my personal blog</a>
 - 📫 How to reach me **tedvu184@gmail.com**
-- 📄 Know about my experiences via my [<a href="https://www.dropbox.com/s/c3pmmkvds191vqi/Ted_Vu_CV_2021.pdf?dl=0" target="_blank">CV</a>]()
+- 📄 Know about my experiences via my [<a href="https://www.dropbox.com/s/1hkm6tbywdvvj7u/Ted_Vu_CV_2021.pdf?dl=0" target="_blank">CV</a>]()
 - ⚡ Fun fact **I have a twin brother but we are not identical**.
 
 <h3 align="left">Connect with me:</h3>
