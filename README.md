@@ -2,7 +2,6 @@
 <h3 align="center">A Software Engineer based in Melbourne with a passion for Algorithms and Open Sources</h3>
 
 - 👨‍💻 I’m an Analyst Programmer Intern at <a href="https://www.momentumsystems.com.au/" target="_blank">Momentum Systems</a>
-- 🔭 I’m currently working on [<a href="https://projectcocoon.org/" target="_blank">Project Cocoon</a>](https://projectcocoon.org/) in my free time.
 - 📝 I regularly write articles on <a href="https://tedvu.com" target="_blank">my personal blog</a>
 - 📫 How to reach me **tedvu184@gmail.com**
 - 📄 Know about my experiences via my [<a href="https://www.dropbox.com/s/1hkm6tbywdvvj7u/Ted_Vu_CV_2021.pdf?dl=0" target="_blank">CV</a>]()
