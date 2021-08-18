@@ -4,7 +4,7 @@
 - 👨‍💻 I’m an Analyst Programmer Intern at <a href="https://www.momentumsystems.com.au/" target="_blank">Momentum Systems</a>
 - 📝 I regularly write articles on <a href="https://tedvu.com" target="_blank">my personal blog</a>
 - 📫 How to reach me **tedvu184@gmail.com**
-- 📄 Know about my experiences via my [<a href="https://www.dropbox.com/s/1hkm6tbywdvvj7u/Ted_Vu_CV_2021.pdf?dl=0" target="_blank">CV</a>]()
+- 📄 Know about my experiences via my [<a href="https://www.dropbox.com/s/n1l9d8qimxi2lly/Ted_Vu_CV_2021.pdf?dl=0" target="_blank">CV</a>]()
 - ⚡ Fun fact **I have a twin brother but we are not identical**.
 
 <h3 align="left">Connect with me:</h3>
